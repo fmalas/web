@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'bokka';
+					src: url('/wp-content/uploads/useanyfont/8937Bokka.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8937Bokka.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bokka{font-family: 'bokka' !important;}
+
+		
